@@ -48,13 +48,13 @@ p{
     color: white;
 }
 .dream-area{
-    background-image: url(/images/dream-bg.png);
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     height: 700px;
     background-position: right;
 }
 .experience-area{
-    background-image: url(/images/exp-bg.png);
+    background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     height: 500px;
     background-position: left;
